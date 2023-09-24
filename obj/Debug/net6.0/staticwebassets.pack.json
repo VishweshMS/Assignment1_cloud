@@ -1,0 +1,469 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\site_ADA.css",
+      "PackagePath": "staticwebassets\\css\\site_ADA.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\a.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\aa.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\aaa.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\aaa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\ad.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\ad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\afd.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\afd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\dd.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\ee.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\ee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\erhjbgr.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\erhjbgr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\ff.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\ff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\fff.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\fff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\knl.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\knl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\lka.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\lka.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\lll.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\lll.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\pj_123.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\pj_123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\qq.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\qq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\sfvkm.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\sfvkm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\ss.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\ss.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\ss_123.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\ss_123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\ss_234.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\ss_234.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\sv.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\sv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\vv.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\vv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\images\\wf.jpg",
+      "PackagePath": "staticwebassets\\data\\images\\wf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\11.js",
+      "PackagePath": "staticwebassets\\data\\info\\11.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\a.js",
+      "PackagePath": "staticwebassets\\data\\info\\a.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\aa.js",
+      "PackagePath": "staticwebassets\\data\\info\\aa.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\aaa.js",
+      "PackagePath": "staticwebassets\\data\\info\\aaa.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\ad.js",
+      "PackagePath": "staticwebassets\\data\\info\\ad.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\afd.js",
+      "PackagePath": "staticwebassets\\data\\info\\afd.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\dd.js",
+      "PackagePath": "staticwebassets\\data\\info\\dd.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\ee.js",
+      "PackagePath": "staticwebassets\\data\\info\\ee.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\erhjbgr.js",
+      "PackagePath": "staticwebassets\\data\\info\\erhjbgr.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\ff.js",
+      "PackagePath": "staticwebassets\\data\\info\\ff.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\fff.js",
+      "PackagePath": "staticwebassets\\data\\info\\fff.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\knl.js",
+      "PackagePath": "staticwebassets\\data\\info\\knl.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\lka.js",
+      "PackagePath": "staticwebassets\\data\\info\\lka.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\lll.js",
+      "PackagePath": "staticwebassets\\data\\info\\lll.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\pj_123.js",
+      "PackagePath": "staticwebassets\\data\\info\\pj_123.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\qq.js",
+      "PackagePath": "staticwebassets\\data\\info\\qq.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\sfvkm.js",
+      "PackagePath": "staticwebassets\\data\\info\\sfvkm.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\ss.js",
+      "PackagePath": "staticwebassets\\data\\info\\ss.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\ss_123.js",
+      "PackagePath": "staticwebassets\\data\\info\\ss_123.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\ss_234.js",
+      "PackagePath": "staticwebassets\\data\\info\\ss_234.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\sv.js",
+      "PackagePath": "staticwebassets\\data\\info\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\vv.js",
+      "PackagePath": "staticwebassets\\data\\info\\vv.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\data\\info\\wf.js",
+      "PackagePath": "staticwebassets\\data\\info\\wf.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner1.svg",
+      "PackagePath": "staticwebassets\\images\\banner1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner2.svg",
+      "PackagePath": "staticwebassets\\images\\banner2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\banner3.svg",
+      "PackagePath": "staticwebassets\\images\\banner3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\images\\jive.png",
+      "PackagePath": "staticwebassets\\images\\jive.png"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vishwesh\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
